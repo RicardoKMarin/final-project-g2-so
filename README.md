@@ -4,7 +4,7 @@ Projeto final do segundo grupo de avaliações da matéria Sistema Operacional n
 Integrantes do grupo:
   - Lucas Enderle
   - Matheus Saft
-  - Patrick Dutra
+  - Patrick Marques
   - Ricardo Marin
   - Viner Porto
 
